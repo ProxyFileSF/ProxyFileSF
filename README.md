@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm ProxyFileSF, a passionate developer who loves creating plugins for Minecraft and beyond. 🚀 
+Hey there! I'm ProxyFile, a passionate developer who loves creating plugins for Minecraft and beyond. 🚀 
 
 
 ## 🌐 Socials:
